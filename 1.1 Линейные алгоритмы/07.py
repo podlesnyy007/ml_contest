@@ -11,11 +11,3 @@ b = int(input())
 k = int(input())
 
 print(max_squares(a, b, k))
-
-"""
-2
-3
-1
------
-6
-"""
